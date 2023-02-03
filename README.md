@@ -9,8 +9,12 @@ The other .pkl files contains the features of the images used by Hisogram,VGG an
 
 Unzip this folder and store it in the static folder. 
 
-## 2.Install the necessary python libraries from the requirements.txt file by running the below command:
+## 2.Install the necessary python libraries 
+
+Run the below command:
 
 `pip install -r requirements.txt`
 
-## 3. Run the streamlit app by executing `streamlit run app.py` in ur Command line prompt. 
+## 3. Run the streamlit app 
+
+Execute `streamlit run app.py` in ur Command line prompt. 
