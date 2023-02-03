@@ -15,6 +15,6 @@ Run the below command:
 
 `pip install -r requirements.txt`
 
-## 3. Run the streamlit app with this command in your Command line prompt.
+## 3. Execute this command to run the IR system.
 
 `streamlit run app.py`
