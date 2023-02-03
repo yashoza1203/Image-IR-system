@@ -8,6 +8,7 @@ the other .pkl files store the features of the images used by Hisogram,VGG and R
 
 Unzip the dataset folder and store it in the static folder 
 
-install the necessary python libraries from the requirements.txt file by running the below command:
+Install the necessary python libraries from the requirements.txt file by running the below command:
 
 `pip install -r requirements.txt`
+
