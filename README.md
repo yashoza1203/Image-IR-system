@@ -1,6 +1,6 @@
 # Image-IR-system-using-python
 
-Download the dataset and other.pkl files from here:
+Download the dataset and other pickle files from here:
 
 https://www.kaggle.com/datasets/yashoza12/ir-system-dataset
 
