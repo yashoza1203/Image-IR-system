@@ -1,5 +1,9 @@
 # Image-IR-system-using-python
 
+Check out my blog to learn more about IR system: 
+
+https://www.linkedin.com/posts/yashoza1203_machinelearning-deeplearning-convolutionalneuralnetworks-activity-7027199908260495360-uBcO?utm_source=share&utm_medium=member_desktop
+
 ## 1. Download the dataset from kaggle
 Download the dataset and other pickle files from here:
 
